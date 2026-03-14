@@ -94,7 +94,7 @@
 
 ### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" height="50" />
 </div>
 
 ### ⚙️ Backend Development
