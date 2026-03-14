@@ -114,7 +114,7 @@
 
 ### ☁️ Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel" height="50" />
 </div>
 
 ---
