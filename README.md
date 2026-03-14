@@ -17,8 +17,8 @@
 
 - 🧑‍🎓 **Computer Science Student | Mumbai, India**
 - 🔭 Building projects in **Data Science, Python & Web Development**
-- 🧠 Passionate about **Data Science, AI/ML & Frontend Development**
-- 🌱 Currently learning **Machine Learning, TypeScript & Cloud Basics**
+- 🧠 Passionate about **Data Science, AI/ML, Full Stack Development, Software Development**
+- 🌱 Currently learning **Machine Learning, TypeScript & More**
 - 💬 Ask me about **Python, Data Analysis, Web Dev & Open Source**
 - 📫 Reach me on → [LinkedIn](https://www.linkedin.com/in/manjit-singh-88a0942b5/)
 - 🤝 Open to **collaborations, internships & innovative projects**
