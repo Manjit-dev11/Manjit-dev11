@@ -131,7 +131,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 &nbsp;
-<a href="mailto:singhmanjitcs232435@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=singhmanjitcs232435@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
