@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&center=true&width=750&color=A855F7&lines=Hello+World!+I'm+Manjit+Singh+✨;CS+Student+%7C+Mumbai%2C+India;Turning+Data+into+Decisions+📊;Code.+Learn.+Build.+Repeat.+🔁;Always+one+project+away+from+greatness+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&center=true&width=750&color=6a3777&lines=Hello+World!+I'm+Manjit+Singh+✨;CS+Student+%7C+Mumbai%2C+India;Turning+Data+into+Decisions+📊;Code.+Learn.+Build.+Repeat.+🔁;Always+one+project+away+from+greatness+🚀" />
 </div>
 
 <div align="center">
@@ -17,8 +17,8 @@
 
 - 🧑‍🎓 **Computer Science Student | Mumbai, India**
 - 🔭 Building projects in **Data Science, Python & Web Development**
-- 🧠 Passionate about **Data Science, AI/ML, Full Stack Development, Software Development**
-- 🌱 Currently learning **Machine Learning, TypeScript & More**
+- 🧠 Passionate about **Data Science, AI/ML & Frontend Development**
+- 🌱 Currently learning **Machine Learning, TypeScript & Cloud Basics**
 - 💬 Ask me about **Python, Data Analysis, Web Dev & Open Source**
 - 📫 Reach me on → [LinkedIn](https://www.linkedin.com/in/manjit-singh-88a0942b5/)
 - 🤝 Open to **collaborations, internships & innovative projects**
@@ -69,7 +69,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manjit-dev11/Manjit-dev11/output/snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manjit-dev11/Manjit-dev11/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manjit-dev11/Manjit-dev11/output/snake.svg" />
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Manjit-dev11/Manjit-dev11/output/snake.svg" width="95%" />
   </picture>
@@ -83,6 +83,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Manjit-dev11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6" />
 </div>
 
+<br/>
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Manjit-dev11?label=Followers&style=for-the-badge&color=6a3777&labelColor=0d1117&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Manjit-dev11?label=Total%20Stars&style=for-the-badge&color=46B3E6&labelColor=0d1117&logo=github)
+![GitHub repos](https://img.shields.io/badge/Public%20Repos-6-F72585?style=for-the-badge&labelColor=0d1117&logo=github)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-06D6A0?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=Manjit-dev11&style=for-the-badge&color=FFB703&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-south-season-animate.svg" width="100%" />
+</div>
+
 ---
 
 ## 🛠 Tech Stack & Expertise
@@ -94,7 +114,7 @@
 
 ### 🎨 Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" height="50" />
 </div>
 
 ### ⚙️ Backend Development
@@ -114,7 +134,7 @@
 
 ### ☁️ Tools & DevOps
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,vercel" height="50" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" height="50" />
 </div>
 
 ---
@@ -137,17 +157,21 @@
 
 </div>
 
-<br>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manjit-dev11&color=A855F7&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/Manjit-dev11?tab=followers">
-    <img src="https://img.shields.io/github/followers/Manjit-dev11?style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Manjit-dev11?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Manjit-dev11?style=social" alt="GitHub Stars" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://github.com/Manjit-dev11">
+  <img src="https://img.shields.io/github/followers/Manjit-dev11?label=👥%20Followers&style=for-the-badge&color=6a3777&labelColor=0d1117&logo=github" />
+</a>
+&nbsp;
+<a href="https://github.com/Manjit-dev11?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Manjit-dev11?label=⭐%20Stars&style=for-the-badge&color=46B3E6&labelColor=0d1117&logo=github" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Manjit-dev11&style=for-the-badge&color=FFB703&label=👁️%20PROFILE+VIEWS" />
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
