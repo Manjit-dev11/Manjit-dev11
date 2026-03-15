@@ -159,7 +159,7 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/Manjit-dev11">
   <img src="https://img.shields.io/github/followers/Manjit-dev11?label=👥%20Followers&style=for-the-badge&color=6a3777&labelColor=0d1117&logo=github" />
@@ -171,7 +171,7 @@
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Manjit-dev11&style=for-the-badge&color=FFB703&label=👁️%20PROFILE+VIEWS" />
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
