@@ -100,7 +100,7 @@
 ## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-south-season-animate.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Manjit-dev11/Manjit-dev11/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
 </div>
 
 ---
